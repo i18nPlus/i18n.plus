@@ -1,0 +1,16 @@
+{
+	"recommendations": [
+		"formulahendry.auto-rename-tag",
+		"yzhang.markdown-all-in-one",
+		"msjsdiag.debugger-for-chrome",
+		"esbenp.prettier-vscode",
+		"editorconfig.editorconfig",
+		"bam.vscode-file-templates",
+		"eamodio.gitlens",
+		"xabikos.javascriptsnippets",
+		"mrmlnc.vscode-json5",
+		"stylelint.vscode-stylelint",
+		"dbaeumer.vscode-eslint",
+		"mkaufman.htmlhint"
+	]
+}
