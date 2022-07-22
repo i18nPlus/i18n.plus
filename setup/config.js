@@ -1,7 +1,7 @@
 // Constants
 const OUTPUT_HTML = "index.html";
-const IMAGE_DIR = "img";
-const PUBLIC_DIRS = [IMAGE_DIR, "css", "js"];
+const IMAGE_DIR = "src/img";
+const PUBLIC_DIRS = [IMAGE_DIR, "src/css", "src/js"];
 const PORT_START = process.env.PORT || 9003;
 const CORS_ORIGINS = {
 	origin: ["localhost", ""],
