@@ -3,7 +3,7 @@ Open Source i18n Plus Frontend JavaScript Powered Library
 ### Installation
 1. Clone Repository
 ```bash
-git clone git@github.com:mambojs/mambo-web.git
+git clone git@github.com:i18nPlus/i18n.plus.git
 ```
 2. Install Dependencies *(requires Node.js version 16+)*
 ```bash
